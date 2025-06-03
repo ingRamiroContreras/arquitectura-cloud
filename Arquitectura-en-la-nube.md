@@ -1,4 +1,4 @@
-# Arquitectura Cloud: Guía Práctica con Diagramas de Referencia
+# Arquitectura Cloud: Guía Práctica
 
 ## Índice
 
@@ -302,3 +302,5 @@ La arquitectura cloud ofrece una amplia gama de beneficios, incluyendo escalabil
 *   **Glosario de términos clave.**
 *   **Referencias a documentación oficial de los proveedores de cloud (AWS, Azure, GCP).**
 *   **Enlaces a recursos adicionales (blogs, tutoriales, cursos).**
+
+
